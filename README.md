@@ -174,7 +174,3 @@ docker compose exec app bash
 docker compose exec app php artisan test
 ```
 
-
-***
-
-Нравится ли такая структура? Хотите добавить раздел с **скриншотами интерфейса** или **настроить CI/CD** для автоматической деплоя?
